@@ -12,14 +12,14 @@ Overview
 </ol>
 
 >PFA Latest images:-
-
 <b>1.LOGIN PAGE</b>
+
 ![D](https://github.com/Aastha05750/Customer_Application/assets/84435501/c389a07a-89ae-4488-82d0-8aab640d1444)
 
-<b>Body: { 
+<p>Body: { 
     "login_id" : "test@sunbasedata.com",
     "password" :"Test@123" }
-For wrong ID Password</b>
+For wrong ID Password</p>
 ![error](https://github.com/Aastha05750/Customer_Application/assets/84435501/6746f442-b30c-4b8f-a53e-92ffb505b828)
 
 <b>2.Home PAGE</b>
@@ -28,7 +28,7 @@ For wrong ID Password</b>
 <b>Create through UI</b>
 ![ui](https://github.com/Aastha05750/Customer_Application/assets/84435501/1f48617d-2f79-42db-ab59-1f853cd16923)
 
-<b>Add through Postman 
+<p>Add through Postman 
 {
     "id": 101,
     "first_name": "Aastha",
@@ -41,7 +41,7 @@ For wrong ID Password</b>
     "phone": "10000",
     "aname": null,
     "apass": null
-}</b>
+}</p>
 ![Post](https://github.com/Aastha05750/Customer_Application/assets/84435501/f93391f7-fe6d-420f-b646-0709150151f2)
 
 <b>Read the values
