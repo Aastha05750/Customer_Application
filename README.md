@@ -42,7 +42,9 @@ For wrong ID Password</p>
     "aname": null,
     "apass": null
 }</p>
-![Post](https://github.com/Aastha05750/Customer_Application/assets/84435501/f93391f7-fe6d-420f-b646-0709150151f2)
+
+![Post](https://github.com/Aastha05750/Customer_Application/assets/84435501/e1eb945c-1592-47aa-8431-dadf4e955072)
+
 
 <b>Read the values
 1) Whole </b>
