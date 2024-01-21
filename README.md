@@ -20,7 +20,8 @@ Overview
     "login_id" : "test@sunbasedata.com",
     "password" :"Test@123" }
 For wrong ID Password</p>
-![error](https://github.com/Aastha05750/Customer_Application/assets/84435501/6746f442-b30c-4b8f-a53e-92ffb505b828)
+
+![error](https://github.com/Aastha05750/Customer_Application/assets/84435501/e8ad6ce0-6558-4ec1-af7e-183c313bc359)
 
 <b>2.Home PAGE</b>
 ![home page](https://github.com/Aastha05750/Customer_Application/assets/84435501/b9c319ae-d770-4ef5-b709-fdcc8243798b)
