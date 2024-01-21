@@ -16,10 +16,10 @@ Overview
 
 ![D](https://github.com/Aastha05750/Customer_Application/assets/84435501/c389a07a-89ae-4488-82d0-8aab640d1444)
 
-<p>Body: { 
-    "login_id" : "test@sunbasedata.com",
-    "password" :"Test@123" }
-For wrong ID Password</p>
+<p> Body: { </p>
+  <p>  "login_id" : "test@sunbasedata.com", </p>
+   <p> "password" :"Test@123" } </p>
+<p> For wrong ID Password</p>
 
 ![error](https://github.com/Aastha05750/Customer_Application/assets/84435501/e8ad6ce0-6558-4ec1-af7e-183c313bc359)
 
